@@ -1,1 +1,1 @@
-# This is general template for projects
+# This application is about Question and answer task using Bert-ktrain
